@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Detector de Minas</string>
+    <string name="descripcion">Instrucciones</string>
+    <string name="dificultad">Seleccione Dificultad</string>
+    <string name="empezar_de_nuevo">Restart</string>
+    <string name="principiante">Principiante</string>
+    <string name="amateur">Amateur</string>
+    <string name="profesional">Profesional</string>
+    <string name="sonido">Sonido</string>
+    <string name="sonido_mute">Silenciar fondo</string>
+    <string name="sonido_start">Poner de nuevo</string>
+    <string name="detector">Detector de Minas</string>
+</resources>

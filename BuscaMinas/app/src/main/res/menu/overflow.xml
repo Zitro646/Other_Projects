@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="@string/descripcion" />
+    <item
+        android:id="@+id/item_2"
+        android:title="@string/dificultad">
+        <menu>
+            <item
+                android:id="@+id/subitem_1"
+                android:title="@string/principiante" />
+            <item
+                android:id="@+id/subitem_2"
+                android:title="@string/amateur" />
+            <item
+                android:id="@+id/subitem_3"
+                android:title="@string/profesional" />
+
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/item_3"
+        android:title="@string/empezar_de_nuevo" />
+
+    <item
+        android:id="@+id/item_4"
+        android:title="@string/sonido">
+        <menu>
+            <item
+                android:id="@+id/subitem_4"
+                android:title="@string/sonido_mute" />
+            <item
+                android:id="@+id/subitem_5"
+                android:title="@string/sonido_start" />
+
+        </menu>
+
+    </item>
+
+</menu>
